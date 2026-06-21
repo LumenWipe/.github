@@ -12,10 +12,10 @@ It offers a web app, a REST API, and an SDK, so anyone from a single user to a w
 
 <br />
 
-[![Live app](https://img.shields.io/badge/Live_app-lumenwipe.com-0B6E8F?style=for-the-badge&labelColor=1b2330)](https://lumenwipe.com)
-[![Docs](https://img.shields.io/badge/Docs-docs.lumenwipe.com-30363d?style=for-the-badge&labelColor=1b2330)](https://docs.lumenwipe.com)
-[![Built on Stellar](https://img.shields.io/badge/Built_on-Stellar-9A6500?style=for-the-badge&labelColor=1b2330)](https://stellar.org)
-[![License](https://img.shields.io/badge/License-Apache_2.0-30363d?style=for-the-badge&labelColor=1b2330)](https://github.com/LumenWipe/lumenwipe/blob/main/LICENSE)
+[![Web app](https://img.shields.io/badge/Web_app-lumenwipe.com-0B6E8F?style=flat-square&labelColor=1b2330)](https://lumenwipe.com)
+[![Docs](https://img.shields.io/badge/Docs-docs.lumenwipe.com-3d444d?style=flat-square&labelColor=1b2330)](https://docs.lumenwipe.com)
+[![Built on Stellar](https://img.shields.io/badge/Built_on-Stellar-FFFFFF?style=flat-square&labelColor=1b2330&logo=stellar&logoColor=white)](https://stellar.org)
+[![License](https://img.shields.io/badge/License-Apache_2.0-30363d?style=flat-square&labelColor=1b2330)](https://github.com/LumenWipe/lumenwipe/blob/main/LICENSE)
 
 </div>
 

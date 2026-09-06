@@ -9,4 +9,4 @@ GitHub configuration for the [LumenWipe](https://github.com/LumenWipe) organizat
 
 ## About LumenWipe
 
-LumenWipe is infrastructure for closing Stellar accounts and recovering the XLM locked in their reserves: a web app, a REST API, and an SDK that run the same non-custodial wind-down. The product and its source live in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe).
+LumenWipe is infrastructure for closing Stellar accounts and recovering the funds locked in their reserves: a web app, a REST API, and an SDK that run the same non-custodial wind-down. The product and its source live in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe).

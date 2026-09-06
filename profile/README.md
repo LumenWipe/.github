@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://lumenwipe.com">
-  <img src="https://raw.githubusercontent.com/LumenWipe/.github/main/profile/assets/hero.png" alt="LumenWipe: close any Stellar account, recover every locked XLM" width="100%" />
+  <img src="https://raw.githubusercontent.com/LumenWipe/.github/main/profile/assets/hero.png" alt="LumenWipe: close any Stellar account, recover the funds locked in it" width="100%" />
 </a>
 
 <br />
 
-**LumenWipe is infrastructure for closing Stellar accounts and recovering the XLM locked in their reserves.**
+**LumenWipe is infrastructure for closing Stellar accounts and recovering the funds locked in their reserves.**
 
 It offers a web app, a REST API, and an SDK, so anyone from a single user to a whole platform can run the same non-custodial wind-down. Every transaction is signed in your browser, and no server ever holds your keys or funds.
 
@@ -26,7 +26,7 @@ It offers a web app, a REST API, and an SDK, so anyone from a single user to a w
 A clean close follows a strict order. LumenWipe runs the whole sequence in one guided flow.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LumenWipe/.github/main/profile/assets/sequence.png" alt="The close, in order: signers, data, offers, positions, convert, trustlines, then merge out as recovered XLM." width="100%" />
+  <img src="https://raw.githubusercontent.com/LumenWipe/.github/main/profile/assets/sequence.png" alt="The close, in order: signers, data, offers, positions, convert, trustlines, then merge out with the funds recovered." width="100%" />
 </div>
 
 <br />

@@ -43,7 +43,7 @@ You decide what happens to each balance: swap it to XLM or return it to its issu
 
 ## Non-custodial by design
 
-- You sign on your own device. Your keys and funds never touch our servers.
+- You sign on your own device. Your keys never leave it, and nothing moves without your signature.
 - Live on-chain state is re-read before anything is built or signed.
 - The transaction builder is open source and auditable, with no network side effects.
 

@@ -23,7 +23,7 @@ It offers a web app, a REST API, and an SDK, so anyone from a single user to a w
 
 ## What it does
 
-A clean close is several transactions in a strict order. LumenWipe runs the whole sequence in one guided flow.
+A clean close follows a strict order. LumenWipe runs the whole sequence in one guided flow.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LumenWipe/.github/main/profile/assets/sequence.png" alt="The close, in order: signers, data, offers, positions, convert, trustlines, then merge out as recovered XLM." width="100%" />

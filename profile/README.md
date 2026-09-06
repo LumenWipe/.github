@@ -43,7 +43,7 @@ You decide what happens to each balance: swap it to XLM or return it to its issu
 
 ## Non-custodial by design
 
-- Keys stay in your browser. The backend is read-only and cannot move funds.
+- You sign on your own device. Your keys and funds never touch our servers.
 - Live on-chain state is re-read before anything is built or signed.
 - The transaction builder is open source and auditable, with no network side effects.
 

@@ -49,7 +49,7 @@ You decide what happens to each balance: swap it to XLM or return it to its issu
 
 ## For builders
 
-A REST API and TypeScript SDK (planned) let wallets, exchanges, and platforms run the same wind-down with their own keys. [Pollar](https://pollar.xyz/), our first integration partner, is building it into its account-closure path.
+A REST API and TypeScript SDK (planned) let wallets, exchanges, and platforms run the same wind-down with their own keys, so account closure can live inside their own product instead of sending users elsewhere.
 
 ## Explore
 
